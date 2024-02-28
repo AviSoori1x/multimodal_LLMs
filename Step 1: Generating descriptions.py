@@ -1,7 +1,7 @@
 # Databricks notebook source
 #Steps
 #Generate clothing item list
-#Generate style list for each. 
+#Generate style list for each item 
 #Have a range of common clothing colors
 #Generate a collected listed of prompts
 #Generate Descriptions according to a prompt template such that there is no descriptions of people in the output
@@ -348,4 +348,5 @@ display(df)
 df.shape
 
 # COMMAND ----------
+
 
